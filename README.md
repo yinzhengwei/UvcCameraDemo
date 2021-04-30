@@ -9,7 +9,7 @@ Introduction
 Screenshots
 -------------
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/3_30_16_7_2.png" height="400" alt="Screenshot"/> 
 
 
 License
