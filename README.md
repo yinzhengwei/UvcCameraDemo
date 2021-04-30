@@ -14,10 +14,8 @@ Screenshots
 
 License
 -------
-**本人从事Android Camera相关开发已有5年
-**目前在深圳上班
-
-**欢迎关注我的微信公众号“小驰笔记”~
+该项目fork自Android的相机开发大佬York，地址：https://github.com/yorkZJC
+感谢该作者此项目对我工作中解决触摸屏外接相机采集图像的帮助！！！
 
 
 
